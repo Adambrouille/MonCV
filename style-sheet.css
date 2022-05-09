@@ -263,7 +263,7 @@ p{
     width: 40%;
     position: relative;
     left: 10%;
-    top: 40px;
+    top: -40px;
 }
 /**Details**/
 .exp:hover{
@@ -294,4 +294,7 @@ p{
 }
 .a{
     color: #300ce1;
+}
+.vid{
+    font-size: 10px;
 }
