@@ -265,18 +265,6 @@ p{
     left: 50%;
     top: 40px;
 }
-video{
-    width: 30%;
-    height: 30%;
-    position: relative;
-    top: -100px;
-}
-.video{
-    width: 20%;
-    position: relative;
-    right: 25%;
-    top: -400px;
-}
 /**Details**/
 .exp:hover{
     border-top: 5px solid #cd7421;
