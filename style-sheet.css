@@ -297,7 +297,11 @@ p{
 }
 .vid{
     font-size: 22px;
-    color: #bac948;
+    color: #000;
+}
+.vid:hover{
+    font-size: 44px;
+    color: red;
 }
 .retour{
     font-size: 200%;
